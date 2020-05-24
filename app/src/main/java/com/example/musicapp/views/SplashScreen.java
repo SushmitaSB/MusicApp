@@ -18,6 +18,7 @@ public class SplashScreen extends AppCompatActivity {
     private TextView tvName;
     Handler handler;
     private ActivitySplashScreenBinding activitySplashScreenBinding;
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
